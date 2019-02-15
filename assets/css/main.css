@@ -2284,6 +2284,7 @@ body.is-preload #banner:after {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  flex-direction: column-reverse;
   max-width: 45em; }
   #cta .inner header {
     -moz-order: 1;
