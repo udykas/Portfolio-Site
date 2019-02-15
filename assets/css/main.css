@@ -2306,7 +2306,10 @@ body.is-preload #banner:after {
   @media screen and (max-width: 980px) {
     #cta .inner {
       display: block;
-      text-align: center; }
+    }
+    .vprod {
+      order: 0;
+    }
       #cta .inner header {
         padding-right: 0;
         width: 100%; }
