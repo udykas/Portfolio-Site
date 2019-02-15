@@ -1342,6 +1342,8 @@ ul.actions {
 
 /* Icons */
 ul.icons {
+  display: flex;
+  flex-direction: column;
   cursor: default;
   list-style: none;
   padding-left: 0; }
